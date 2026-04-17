@@ -1,4 +1,4 @@
-package com.example.demo.presentation;
+package presentation;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.MediaType;
